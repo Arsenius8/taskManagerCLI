@@ -1,6 +1,6 @@
 # taskManagerCLI
 
-Task Manager CLI coded on Go lang with PostgreSQL database.
+Task Manager CLI coded on Go lang with PostgreSQL database. 
 Using CLI with this flags:
 -title "Title"
 -desc "Description" (Optional)
